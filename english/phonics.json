@@ -1,6 +1,6 @@
 {
     "lessons": [
-        {"id": "d4501", "title": "Tập 1", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
-        {"id": "d4502", "title": "Tập 2", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]}
+        {"id": "pho01", "title": "Tập 1 phonics", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
+        {"id": "pho02", "title": "Tập 2 phonics", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]}
     ]
 }
