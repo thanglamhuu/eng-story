@@ -2,17 +2,29 @@
     "lessons": [
         {"id": "d4501", "title": "01. All The Way From A Future World.",
             "trang": [
-                {"no": 1, "img":"01.001.jpg",  
+                {"no": 1, "img":"01.001.jpg", "process":1,
                     "words":[
                         {"no":1, "eng":"Such a peaceful new years day.", "vi": "Thế là đã sang năm mới rồi", "img":""},
                         {"no":2, "eng":"Maybe this year will be better than the last", "vi": "Hi vọng năm nay may mắn hơn năm trước", "img":""},
                         {"no":3, "eng":"Trust me, you won't be getting anything good.", "vi": "Tin tôi đi, bạn chẳng có gì tốt hơn cả", "img":""},
                         {"no":4, "eng":"Nobi Nobita will hang him self in 30 minutes", "vi": "Nobi Nobita sẽ suýt chết trong 30 phút nữa", "img":""},
                         {"no":5, "eng":"Who's there? Who's saying those weird things?", "vi": "Ai đó? Ai nói bậy bạ gì đấy?", "img":""},
-                        {"no":6, "eng":"Show yourself", "vi": "Có giỏi thì ra mặt đi", "img":""},
+                        {"no":6, "eng":"Show yourself", "vi": "Ra mặt đi", "img":""},
                         {"no":7, "eng":"And burn at the stake in 40", "vi": "Bị thiêu ở cột trong 40 phút nữa", "img":""},
                         {"no":8, "eng":"That's creepy", "vi": "Thật kỳ quái", "img":""},
                         {"no":9, "eng":"Nobody's here", "vi": "Không có ai cả", "img":""}
+                    ]},
+                {"no": 2, "img":"01.002.jpg", "process":0,
+                    "words":[
+                        {"no":1, "eng":"It's me", "vi": "Tớ đây", "img":""},
+                        {"no":2, "eng":"Did i scare ya", "vi": "Tớ có làm bạn giật mình không?", "img":""},
+                        {"no":3, "eng":"Who are you?", "vi": "Cậu là ai vậy?", "img":""},
+                        {"no":4, "eng":"Where'r you come from?", "vi": "Cậu đến từ đâu vậy?", "img":""},
+                        {"no":5, "eng":"What are you here for?", "vi": "Bạn đến đây để làm gì?", "img":""},
+                        {"no":6, "eng":"How did you pop out of here?", "vi": "Có giỏi thì ra mặt đi", "img":""},
+                        {"no":7, "eng":"Please, don't ask so many question at once, give me a headache.", "vi": "Đừng hỏi nhiều, làm tớ đau đầu.", "img":""},
+                        {"no":8, "eng":"Who care about the details, anyway?", "vi": "Chẳng ai quan tâm chi tiết cả đúng không?", "img":""},
+                        {"no":9, "eng":"I came here to save you from your terrible fate", "vi": "Tôi đến đây để cứu bạn khỏi số phận khủng khiếp của bạn", "img":""}
                     ]}
             ]
         },
