@@ -2,7 +2,7 @@
     "lessons": [
         {"id": "d4501", "title": "01. All The Way From A Future World.",
             "trang": [
-                {"no": 1, "img":"01.001.jpg", "process":1,
+                {"no": 1, "img":"01.001.jpg", "process":0,
                     "words":[
                         {"no":1, "eng":"Such a peaceful new years day.", "vi": "Thế là đã sang năm mới rồi", "img":""},
                         {"no":2, "eng":"Maybe this year will be better than the last", "vi": "Hi vọng năm nay may mắn hơn năm trước", "img":""},
@@ -21,7 +21,7 @@
                         {"no":3, "eng":"Who are you?", "vi": "Cậu là ai vậy?", "img":""},
                         {"no":4, "eng":"Where'r you come from?", "vi": "Cậu đến từ đâu vậy?", "img":""},
                         {"no":5, "eng":"What are you here for?", "vi": "Bạn đến đây để làm gì?", "img":""},
-                        {"no":6, "eng":"How did you pop out of here?", "vi": "Có giỏi thì ra mặt đi", "img":""},
+                        {"no":6, "eng":"How did you pop out of here?", "vi": "Làm thế nào mà bạn chui ra từ đây được?", "img":""},
                         {"no":7, "eng":"Please, don't ask so many question at once, give me a headache.", "vi": "Đừng hỏi nhiều, làm tớ đau đầu.", "img":""},
                         {"no":8, "eng":"Who care about the details, anyway?", "vi": "Chẳng ai quan tâm chi tiết cả đúng không?", "img":""},
                         {"no":9, "eng":"I came here to save you from your terrible fate", "vi": "Tôi đến đây để cứu bạn khỏi số phận khủng khiếp của bạn", "img":""}
