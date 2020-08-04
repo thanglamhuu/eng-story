@@ -1,0 +1,13 @@
+node_modules
+.idea/
+.DS_Store
+out
+public
+*.log
+.vscode/
+.envs/
+.backups/
+static/sitemap.xml
+sitemap.xml
+staticNoCache/
+.next/
