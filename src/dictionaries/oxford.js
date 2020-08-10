@@ -5,12 +5,15 @@ module.exports = (word) =>
   new Promise((resolve, reject) => {
     const options = {
       // uri: `https://www.oxfordlearnersdictionaries.com/definition/english/${word}_1`,
-      uri: `https://www.oxfordlearnersdictionaries.com/search/english/direct/?q=${word}`,
+      // uri: `https://www.oxfordlearnersdictionaries.com/search/english/direct/?q=${word}`,
+      uri: `https://www.oxfordlearnersdictionaries.com/definition/english/${word}_1?q=${word}`,
       transform: (body) => cheerio.load(body)
     };
     console.log(`Start to parse ${word}`);
     rp(options)
       .then(($) => {
+        console.log('response ', $);
+
         const title = $('h2.h').text();
         const main_transcription = $(
           'div.top-g > div.pron-gs.ei-g span.pron-g[geo="n_am"] > span.phon'
