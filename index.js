@@ -17,3 +17,6 @@ var client = Owlbot(YOUR_TOKEN);
 client.define('love').then(function(result){
    console.log(result.pronunciation);
 });
+
+var data = await client.define('love');
+console.log('await result:', result.pronunciation);
