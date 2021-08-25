@@ -1,7 +1,7 @@
 {
     "list": [
-        {"id":"phonetics1", "title":"44 Âm IPA 1", "img":"https://raw.githubusercontent.com/thanglamhuu/eng-story/master/phonics/44ipa.jpg", "youtube":"Ioo67Yx7r_Y"}, 
+        {"id":"phonetics1", "title":"44 Âm IPA 1", "img":"https://raw.githubusercontent.com/thanglamhuu/eng-story/master/phonics/ipa1.jpg", "youtube":"Ioo67Yx7r_Y"}, 
         {"id":"phonetics2", "title":"BBC learning English", "img":"https://raw.githubusercontent.com/thanglamhuu/eng-story/master/phonics/bbc.jpg", "youtube":"G4Z5qngn-48"}, 
-        {"id":"phonetics3", "title":"44 Âm IPA 2", "img":"https://raw.githubusercontent.com/thanglamhuu/eng-story/master/english/doraemon45tapngan/ipa2.jpg", "youtube":"nDejQHP7ya8"} 
+        {"id":"phonetics3", "title":"44 Âm IPA 2", "img":"https://raw.githubusercontent.com/thanglamhuu/eng-story/master/phonics/ipa2.jpg", "youtube":"nDejQHP7ya8"} 
     ]
 }
