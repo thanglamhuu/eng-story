@@ -1,6 +1,7 @@
 {
     "lessons": [
-        {"id": "long_i", "title": "/i:/", "url":"https://www.youtube.com/watch?v=nDejQHP7ya8&t=15s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
-        {"id": "short_i", "title": "/I/", "url":"https://www.youtube.com/watch?v=nDejQHP7ya8&t=33s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]}
+        {"id": "start", "title": "Bắt đầu", "url":"https://www.youtube.com/watch?v=Ioo67Yx7r_Y", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
+        {"id": "long_i", "title": "/i:/", "url":"https://www.youtube.com/watch?v=Ioo67Yx7r_Y&t=15s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
+        {"id": "short_i", "title": "/I/", "url":"https://www.youtube.com/watch?v=Ioo67Yx7r_Y&t=33s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]}
     ]
 }
