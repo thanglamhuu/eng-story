@@ -20,3 +20,4 @@ client.define('love').then(function(result){
 
 var data = await client.define('love');
 console.log('await result:', result.pronunciation);
+

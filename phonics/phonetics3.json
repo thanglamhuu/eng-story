@@ -1,7 +1,8 @@
 {
     "lessons": [
-        {"id": "start", "title": "Bắt đầu", "url":"https://www.youtube.com/watch?v=nDejQHP7ya8&t", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
-        {"id": "long_i", "title": "/i:/", "url":"https://www.youtube.com/watch?v=nDejQHP7ya8&t=15s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
-        {"id": "short_i", "title": "/I/", "url":"https://www.youtube.com/watch?v=nDejQHP7ya8&t=33s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]}
+        {"id": "start", "title": "Bắt đầu", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
+        {"id": "long_i", "title": "/i:/", "minute":"&t=15s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
+        {"id": "short_i", "title": "/I/", "minute":"&t=33s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
+        {"id": "short_i", "title": "/ʊ/", "minute":"&t=49s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]}
     ]
 }
