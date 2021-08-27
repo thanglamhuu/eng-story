@@ -1,8 +1,8 @@
 {
     "list": [
-        {"id":"phonetics1", "title":"44 Âm IPA 1", "img":"https://raw.githubusercontent.com/thanglamhuu/eng-story/master/phonics/ipa1.jpg", "youTubeId":"Ioo67Yx7r_Y", "minute":""}, 
-        {"id":"phonetics2", "title":"BBC learning English", "img":"https://raw.githubusercontent.com/thanglamhuu/eng-story/master/phonics/bbc.jpg", "youTubeId":"htmkbIboG9Q", "minute":""}, 
-        {"id":"phonetics3", "title":"44 Âm IPA 2", "img":"https://raw.githubusercontent.com/thanglamhuu/eng-story/master/phonics/ipa2.jpg", "youTubeId":"nDejQHP7ya8", "minute":""} 
+        {"id":"phonetics1", "title":"44 Âm IPA 1", "img":"https://raw.githubusercontent.com/thanglamhuu/eng-story/master/phonics/ipa1.jpg", "youtubeId":"Ioo67Yx7r_Y", "minute":""}, 
+        {"id":"phonetics2", "title":"BBC learning English", "img":"https://raw.githubusercontent.com/thanglamhuu/eng-story/master/phonics/bbc.jpg", "youtubeId":"htmkbIboG9Q", "minute":""}, 
+        {"id":"phonetics3", "title":"44 Âm IPA 2", "img":"https://raw.githubusercontent.com/thanglamhuu/eng-story/master/phonics/ipa2.jpg", "youtubeId":"nDejQHP7ya8", "minute":""} 
     ],
     "phonics":[{"id":1,"title":"Nguyên âm dài /i:/","image":"bai1_i_long.PNG"},
         {"id":2,"title":"Nguyên âm ngắn /ɪ/","image":"bai2_i_short.png"},
