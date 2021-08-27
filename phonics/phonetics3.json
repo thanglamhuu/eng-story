@@ -1,8 +1,0 @@
-{
-    "lessons": [
-        {"id": "start", "title": "Bắt đầu", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
-        {"id": "long_i", "title": "/i:/", "minute":"&t=15s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
-        {"id": "short_i", "title": "/I/", "minute":"&t=33s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]},
-        {"id": "short_i", "title": "/ʊ/", "minute":"&t=49s", "words":[{"eng":"trust me", "img":""},{"eng":"better", "img":""}]}
-    ]
-}
